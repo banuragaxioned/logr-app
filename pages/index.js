@@ -596,7 +596,7 @@ export default function Example() {
 																<div className="inline-flex items-center px-2.5 py-0.5 text-sm leading-5 font-medium text-gray-700 hover:bg-gray-50">
 																	<svg
 																		xmlns="http://www.w3.org/2000/svg"
-																		class="h-5 w-5"
+																		className="h-5 w-5"
 																		viewBox="0 0 20 20"
 																		fill="currentColor"
 																	>
